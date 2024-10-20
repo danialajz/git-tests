@@ -9,4 +9,5 @@ const register2 = () => {
 };
 const bug = false;
 
-const ali = 23;
+const al = 23;
+const reza = 23;
