@@ -4,9 +4,7 @@ const isLogin = () => {
 const register = () => {
   return true;
 };
-const register2 = () => {
-  return isLogin;
-};
+const register2 = () => {};
 const bug = false;
 
 const al = 23;
