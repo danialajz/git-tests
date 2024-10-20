@@ -7,3 +7,4 @@ const register = () => {
 const register2 = () => {
   return isLogin;
 };
+const bug = false;

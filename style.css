@@ -2,3 +2,9 @@ body {
   display: flex;
   color: black;
 }
+
+h2 {
+  color: white;
+  align-self: start;
+  size-adjust: 23px;
+}
