@@ -7,4 +7,6 @@ const bug = false;
 
 const al = 230;
 const reza = 23;
-const re = true;
+
+const ali = 32332;
+const w = <tr></tr>;
