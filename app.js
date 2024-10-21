@@ -20,3 +20,5 @@ const contract = false;
 const tests = false;
 
 const al13i = false;
+
+const a = ali;
