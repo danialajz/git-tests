@@ -22,3 +22,5 @@ const tests = false;
 const al13i = false;
 
 const a = ali;
+
+const set = (commnt = {});
