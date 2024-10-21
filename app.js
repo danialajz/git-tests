@@ -10,7 +10,3 @@ const reza = 23;
 
 const ali = 32332;
 const w = <tr></tr>;
-
-const test = () =>{ return false}
-
-cjdcn
